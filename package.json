@@ -1,0 +1,33 @@
+{
+  "name": "majestic-ext",
+  "version": "1.0.0",
+  "description": "Build Chrome extensions the Majestic way",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomashare/majesti-ext.git"
+  },
+  "keywords": [
+    "majesti",
+    "extensions",
+    "ext",
+    "chrome",
+    "development",
+    "developer",
+    "extension",
+    "builder",
+    "template",
+    "starter",
+    "base",
+    "gulp"
+  ],
+  "author": "Tommy Hare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomashare/majesti-ext/issues"
+  },
+  "homepage": "https://github.com/thomashare/majesti-ext#readme"
+}
